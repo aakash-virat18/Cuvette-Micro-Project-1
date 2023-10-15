@@ -1,0 +1,96 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    font-family: Inter;
+}
+
+.banner{
+    height: 70vh;
+    background-color: #FFCD9E;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+}
+
+.footer{
+    height: 30vh;
+    background-color: #282828;
+    color: white;
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.heading{
+    font-weight: 700;
+    font-size: 36x;
+    line-height: 44px;
+    color: #282828;
+}
+
+.description{
+    font-weight: 500;
+    font-size: 20x;
+    line-height: 24px;
+    color: #484848;
+}
+
+.demo{
+    font-weight: 800;
+    font-size: 20x;
+    line-height: 32px;
+    color: #282828;
+}
+
+.logo{
+    height: 440px;
+    margin-right: 45px;
+}
+
+.banner-left{
+    margin: 0 220px 0 220px;
+}
+
+input{
+    border-style: none;
+    border: 3.5px solid #282828;
+    border-radius: 6px;
+    height: 32px;
+    width: 250px;
+    font-family: Inter;
+    margin: 25px 7px 25px 0;
+    padding-left: 12px;
+    font-weight: 500;
+}
+
+button{
+    background: #282828;
+    color: white;
+    border-style: none;
+    border-radius: 6px;
+    height: 41px;
+    width: 150px;
+    font-family: Inter;
+}
+
+.disclaimer{
+    color: white;
+    font-size: 11px;
+}
+
+ul{
+    margin: 0;
+    list-style: none;
+    line-height: 28px;
+}
+
+li{
+    font-size: 14px;
+}
+
+.col2{
+    text-align: end;
+}
